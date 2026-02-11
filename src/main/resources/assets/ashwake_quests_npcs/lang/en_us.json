@@ -1,0 +1,13 @@
+{
+  "itemGroup.ashwake_quests_npcs": "Ashwake Quests & NPCs",
+  "block.ashwake_quests_npcs.ashwake_block": "Ashwake Block",
+  "item.ashwake_quests_npcs.ashwake_item": "Ashwake Item",
+
+  "ashwake_quests_npcs.configuration.title": "Ashwake Quests & NPCs Configs",
+  "ashwake_quests_npcs.configuration.section.ashwake_quests_npcs.common.toml": "Ashwake Quests & NPCs Configs",
+  "ashwake_quests_npcs.configuration.section.ashwake_quests_npcs.common.toml.title": "Ashwake Quests & NPCs Configs",
+  "ashwake_quests_npcs.configuration.items": "Item List",
+  "ashwake_quests_npcs.configuration.logDirtBlock": "Log Dirt Block",
+  "ashwake_quests_npcs.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ashwake_quests_npcs.configuration.magicNumber": "Magic Number"
+}

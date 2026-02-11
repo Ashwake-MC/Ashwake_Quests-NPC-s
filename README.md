@@ -1,25 +1,29 @@
+# Ashwake Quests & NPCs
 
-Installation information
-=======
+Stories shape the Ashwake world. Ashwake Quests & NPCs introduces lore-driven characters, dynamic quests, and branching progression that guide players through survival, arcane mysteries, and rising technology.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## Features
+- Lore-driven NPCs that evolve with player choices.
+- Dynamic quests with branching outcomes and progression.
+- Survival, arcane mystery, and rising technology themes.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+## Installation (Players)
+1. Install NeoForge for Minecraft 1.21.11.
+2. Place the mod JAR in your Minecraft `mods` folder.
+3. Launch the game and enable the mod in the Mods menu.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Development
+- Requires JDK 21.
+- Run the client: `./gradlew runClient`
+- Run the server: `./gradlew runServer`
+- Build: `./gradlew build`
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+## Configuration
+Open the Mods screen, select "Ashwake Quests & NPCs", and click "Config".
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## Compatibility
+- Minecraft 1.21.11
+- NeoForge 21.11.38-beta
+
+## License
+All Rights Reserved. See `TEMPLATE_LICENSE.txt`.
