@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "tools",
+  "ingredients": [
+    { "tag": "minecraft:planks" },
+    { "item": "minecraft:stick" },
+    { "item": "minecraft:stick" },
+    { "item": "minecraft:string" }
+  ],
+  "result": {
+    "item": "minecraft:wooden_shovel"
+  }
+}

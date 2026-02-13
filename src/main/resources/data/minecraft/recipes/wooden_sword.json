@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "combat",
+  "ingredients": [
+    { "tag": "minecraft:planks" },
+    { "tag": "minecraft:planks" },
+    { "item": "minecraft:stick" },
+    { "item": "minecraft:string" }
+  ],
+  "result": {
+    "item": "minecraft:wooden_sword"
+  }
+}
